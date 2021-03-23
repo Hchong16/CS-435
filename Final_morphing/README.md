@@ -14,9 +14,9 @@ The program is broken up into 6 sections:
 	    + 'img1.jpg'
 		+ 'img2.jpg'
 		+ 'correspondences.csv'.
-	  + Image related outputs from the program will appear in the 'results' directory under a folder named 
-	  after the folder in the 'data' directory. The rest will be under a specified folder name in the 'results'
-	  directory.
+  + Image related outputs from the program will appear in the 'results' directory under a folder named 
+  after the folder in the 'data' directory. The rest will be under a specified folder name in the 'results'
+  directory.
 		
 2. Scan-fill a Triangle 
   + Scan-fill a specified triangle with vertices (20,30),(100,50), and (50,80). 
@@ -63,7 +63,7 @@ The program is broken up into 6 sections:
 + 'img2.jpg'
 + 'correspondences.csv'.
 
-**You must alter the 'data_dir' variable located on line 8 in the 'main.m' file to test for a specific image pair.
+** You must alter the 'data_dir' variable located on line 8 in the 'main.m' file to test for a specific image pair.
 
 Once all the steps above are completed, you can proceed to 'run all' in the 'main.m' file.
 
@@ -71,5 +71,5 @@ Image related results will be overwritten and saved in a sub-folder named after 
 directory located under the 'results' directory.. The rest of the results will be saved under a specific file name 
 in the 'results' directory. Please refer to i. for all the specific output folders.
 
-**As a side note, we have taken the example images in the assignment PDF and all those results will be located in 
+** As a side note, we have taken the example images in the assignment PDF and all those results will be located in 
 'Assignment_Example'. The actual test cases shown in the project writeup are located under 'Set1' and 'Set2'.
